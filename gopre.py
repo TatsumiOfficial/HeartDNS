@@ -1,58 +1,146 @@
-import requests
+import requests, sys
+import tldextract
 from termcolor import colored
 
-def read_ip_file(file_name):
-  with open(file_name, "r") as file:
-    return file.read()
+def read_file(file_name):
+	liss = [ i.strip() for i in open(file_name, 'r').readlines() ]
+	return liss
 
-def split_ip_addresses(ip_addresses_raw):
-  return ip_addresses_raw.split("\n")
+def filter(list_web, list_filter):
+    filter_word = list_filter
+    
+    trash = []
 
-def process_ip(ip_address, api_key, ip_addressing):
-  headers = {
-    "Content-Type": "application/x-www-form-urlencoded"
-  }
-  url = "https://godns.biz.id/Community/request.php"
-  payload = {
-    "ip_address": ip_address + ip_addressing,
-    "api_key": api_key
-  }
-  try:
-    response = requests.post(url, data=payload, headers=headers, timeout=15)
+    for website in list_web:
+        for mute_word in filter_word:
+            if mute_word in website:
+                trash.append(website)
+                break
+    
 
-    if response.status_code == 200:
-      data = response.json()
+    for trasher in trash:
+        try:
+            list_web.remove(trasher)
+        except Exception as e:
+            print(str(e) + " --> Exception goes here")
 
-      if "error" in data:
-        if data["error"] == "Tidak ada domain yang ditemukan":
-          print(colored(f"{ip_address}: Failed Total Domain 0", "red"))
-        elif data["error"] == "API key tidak valid atau tidak aktif":
-          print(colored(f"{api_key}: Apikey Invalid", "red"))
-      else:
-        domains = []
-        for item in data:
-          domains.append(item["domain"])
-        with open("domains.txt", "a") as file:
-          for domain in domains:
-            file.write(domain + "\n")
-        print(colored(f"{ip_address}: Success Total Domain {len(domains)}", "green"))
-    else:
-      print(colored(f"{ip_address}: Apikey Invalid", "red"))
+    return list_web
 
-  except:
-    print(colored(f"{ip_address}: Unknown Silahkan Check Ulang", "red"))
+def subdomain_filter(list_web):
+	new_domain = []
+	
+	for x in list_web:
+		domain = tldextract.extract(x).registered_domain
+		new_domain.append(domain)
+	
+	return new_domain
+
+def process_ip(ip_address, api_key, cidr, is_subdo, is_filter):
+	url = "https://godns.biz.id/Community/request.php"
+	
+	payload = {
+		"ip_address": ip_address + cidr,
+		"api_key": api_key
+	}
+
+	try:
+		response = requests.post(url, data=payload, timeout=45)
+		
+		if response.status_code == 200:
+			data = response.json()
+
+			if "error" in data:
+				if data["error"] == "Tidak ada domain yang ditemukan":
+					print(colored(ip_address + " : Total Domain 0", "red"))
+				elif data["error"] == "API key tidak valid atau tidak aktif":
+					print(colored(api_key + " : Apikey Invalid", "red"))
+					sys.exit()
+			else:
+				domains = []
+				
+				for item in data:
+					domains.append(item['domain'])
+			
+				if is_subdo:
+					print("subdo filtering")
+					domains = subdomain_filter(domains)
+
+				if is_filter:
+					domains = filter(domains, is_filter)
+
+				with open('domains.txt', 'a') as file:
+					for domain in domains:
+						file.write(domain+"\n")
+
+				print(colored(ip_address + ": Success Total Domain " + str(len(domains)), "green"))
+		else:
+			save = open('log.txt', 'a')
+			save.write(response.status_code+"\n"+response.content+"\n")
+			save.close()
+
+			print(colored(ip_address + ": Something went wrong with the server, send log.txt", "red"))
+			sys.exit()
+
+	except Exception as e:
+		print(e)
+
+		save = open('log.txt', 'a')
+		save.write(e + "\n")
+		save.close()
+
+		print(colored("Check your internet connection\n"));
+		print("Log saved to log.txt\n")
+		sys.exit()			
+
 
 def main():
-  file_name = input("Select Your List : ")
-  api_key = input("APIKEY : ")
-  ip_addressing = input("Input CIDR IP Atau Kosongkan: ")
+	file_name = input("List : ")
+	api_key = input("APIKEY : ")
+	cidr = input("RANGE IP/16 /24 [or just enter] : ")
+	is_filter = input("Filter list [or just enter]: ")
+	is_subdo = input("Grab subdo [y/N] :")
 
-  ip_addresses_raw = read_ip_file(file_name)
+	try:
+		#Process IP#
+		ip_addresses_raw = read_file(file_name)
+		#Process filter#
+		try:
+			answer = is_filter.strip()
+			
+			if len(answer) < 1:
+				print("Empty filter")
+				filtering = False
 
-  ip_addresses = split_ip_addresses(ip_addresses_raw)
+			else:
+				filter_raw = read_file(is_filter)
 
-  for ip_address in ip_addresses:
-    process_ip(ip_address, api_key, ip_addressing)
+				if len(filter_raw) < 1:
+					print("Empty filter")
+					filtering = False
+				else:
+					print(colored("Found " + str(len(filter_raw)) + " filter list"))
+					filtering = filter_raw
+
+		except Exception as e:
+			print(e)
+			print("Filter list not found")
+			sys.exit()
+
+		#Process subdo#
+		answer = is_subdo.strip()
+
+		if answer == "y" or answer =="Y":
+			get_subdo = False
+		else:
+			get_subdo = True
+
+		for ip_address in ip_addresses_raw:
+			process_ip(ip_address.strip(), api_key, cidr, get_subdo, filtering)
+
+	except Exception as e:
+		print(e)
+		print("File not found")
+		sys.exit()
 
 if __name__ == "__main__":
-  main()
+	main()

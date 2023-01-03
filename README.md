@@ -4,5 +4,4 @@
 # An instance of this API (GoDNS) is online at the following URL:
     https://godns.biz.id/
  
-gocli for free version <br>
-gopre for premium/community
+

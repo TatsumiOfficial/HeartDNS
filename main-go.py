@@ -54,7 +54,7 @@ def process_ip(ip_address, api_key, cidr, is_subdo, is_filter):
 					print(colored(ip_address + " : Total Domain 0", "red"))
 				elif data["error"] == "API key tidak valid atau tidak aktif":
 					print(colored(api_key + " : Apikey Invalid", "red"))
-					sys.exit()
+
 			else:
 				domains = []
 				
@@ -79,7 +79,7 @@ def process_ip(ip_address, api_key, cidr, is_subdo, is_filter):
 			save.close()
 
 			print(colored(ip_address + ": Something went wrong with the server, send log.txt", "red"))
-			sys.exit()
+
 
 	except Exception as e:
 		save = open('log.txt', 'a')
@@ -88,7 +88,7 @@ def process_ip(ip_address, api_key, cidr, is_subdo, is_filter):
 
 		print(colored("Check your internet connection\n"));
 		print("Log saved to log.txt\n")
-		sys.exit()			
+		
 
 
 def main():
@@ -122,9 +122,8 @@ def main():
 		except Exception as e:
 
 			print("Filter list not found")
-			sys.exit()
+		
 
-		#Process subdo#
 		answer = is_subdo.strip()
 
 		if answer == "y" or answer =="Y":
@@ -138,7 +137,6 @@ def main():
 	except Exception as e:
 		print(traceback.format_exc())
 		print("File not found")
-		sys.exit()
 
 if __name__ == "__main__":
 	main()

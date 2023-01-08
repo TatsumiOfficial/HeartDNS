@@ -32,7 +32,7 @@ def get_domains(ip_address, apikey):
   if domains is not None:
     print(colored(ip_address + " -> Success Total Domain " + str(len(domains)), "green"))
 
-    with open(f'reversed.txt', 'a') as f:
+    with open(f'reversed.txt', 'a', encoding='utf-8') as f:
       for domain in domains:
         f.write(domain['domain'] + '\n')
 

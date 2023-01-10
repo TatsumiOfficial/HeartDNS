@@ -13,7 +13,7 @@ def godnsrequest(ip_address, apikey):
       data = response.json()
       try:
         if data['error'] == 'apikey invalid':
-          print(colored(apikey + " -> Apikey Invalid", "red"))
+          print(colored(apikey + " -> apikey & device invalid", "red"))
           return
       except (TypeError, KeyError):
         domains = data

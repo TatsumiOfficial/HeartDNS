@@ -28,13 +28,17 @@ def godnsrequest(ip_address, apikey):
     return []
 
 def get_domains(ip_address, apikey):
-  domains = godnsrequest(ip_address, apikey)
-  if domains is not None:
-    print(colored(ip_address + " -> Success Total Domain " + str(len(domains)), "green"))
-
-    with open(f'reversed.txt', 'a', encoding='utf-8') as f:
-      for domain in domains:
-        f.write(str(domain['domain']) + '\n')
+    domains = godnsrequest(ip_address, apikey)
+    if domains is not None:
+        print(colored(ip_address + " -> Success Total Domain " + str(len(domains)), "green"))
+        with open(f'reversed.txt', 'a', encoding='utf-8') as f:
+            for domain in domains:
+                if 'domain' in domain:
+                    f.write(str(domain['domain']) + '\n')
+                else:
+                    print(colored(f"{ip_address} -> Failed, Invalid Domain", "red"))
+    else:
+        print(colored(f"{ip_address} -> Failed, Invalid Domain", "red"))
 
 def get_inputs():
   ip_addresses_file = input("Select Your List: ")

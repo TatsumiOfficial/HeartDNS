@@ -34,7 +34,7 @@ def get_domains(ip_address, apikey):
 
     with open(f'reversed.txt', 'a', encoding='utf-8') as f:
       for domain in domains:
-        f.write(domain['domain'] + '\n')
+        f.write(str(domain['domain']) + '\n')
 
 def get_inputs():
   ip_addresses_file = input("Select Your List: ")

@@ -11,7 +11,7 @@ echo "[5] Chat Ryan Untuk Add OS lain"
 read -p "Pilih [1]: " PILIH OS
 
 case "$PILIHOS" in
-	1|"") PILIHOS="https://nixpoin.sgp1.cdn.digitaloceanspaces.com/win10.gz";;
+	1|"") PILIHOS="https://nixpoin.sgp1.cdn.digitaloceanspaces.com/windows2019DO.gz";;
 	2) PILIHOS="https://nixpoin.sgp1.cdn.digitaloceanspaces.com/windows2016.gz";;
 	3) PILIHOS="https://nixpoin.sgp1.cdn.digitaloceanspaces.com/windows2012v2.gz";;
 	4) PILIHOS="https://nixpoin.sgp1.cdn.digitaloceanspaces.com/win10.gz";;

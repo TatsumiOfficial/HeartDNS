@@ -4,7 +4,7 @@ from termcolor import colored
 from tqdm import tqdm
 
 def godnsrequest(ip_address, apikey):
-    url = "https://godns.biz.id/API/index.php"
+    url = "https://heartdns.com/API/index.php"
     payload = f"ip_address={ip_address}&apikey={apikey}"
     headers = {'Content-Type': 'application/x-www-form-urlencoded'}
     try:

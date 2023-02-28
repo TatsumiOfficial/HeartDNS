@@ -3,7 +3,7 @@ import tldextract
 from termcolor import colored
 
 def godnsrequest(ip_address, apikey):
-  url = "https://godns.dev/API/free.php"
+  url = "https://heartdns.com/API/free.php"
   payload = f"ip_address={ip_address}&apikey={apikey}"
   headers = {'Content-Type': 'application/x-www-form-urlencoded'}
   try:

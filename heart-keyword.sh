@@ -3,21 +3,20 @@
 heartkeyword() {
     curl=$(curl -s "https://heartdns.com/API/keyword.php?s=$1" | jq -r '.domain[] | .[]')
     if [[ $curl == '' ]]; then
-        echo -e "Failed Get Domain $keyword"
+        echo -e "Failed Get Domain $1"
     else
-        echo -e "Success Get Domain $keyword"
+        echo -e "Success Get Domain $1"
         echo "$curl" >> domain-result.txt
     fi
 }
 
-read -p "Enter your filename: " filename
+read -p "Select Your List : " listo;
 
-
-if [[ ! -f $filename ]]; then
-    echo "File not found: $filename"
-    exit 1
-fi
-
-while read -r keyword; do
-    heartkeyword "$keyword"
-done < "$filename"
+IFS=$'\r\n' GLOBIGNORE='*' command eval 'list=($(cat $listo))'
+for (( i = 0; i < "${#list[@]}"; i++ )); do
+    AMPAS="${list[$i]}"
+    IFS='' read -r -a array <<< "$AMPAS"
+    target=${array[0]}
+    heartkeyword ${target} &
+done
+wait

@@ -17,7 +17,8 @@ To access the HeartDNS API, you need to provide two parameters:
 - `ip_address` (required): the IP address to search for information
 - `apikey` (required): the API key to access the HeartDNS service
 
-Example parameter usage:
+### Example parameter usage:
+
 curl -X POST -d "ip_address=192.168.1.1&apikey=1234567890" http://heartdns.com/API/index.php
 
 

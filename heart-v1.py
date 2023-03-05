@@ -7,7 +7,7 @@ def godnsrequest(ip_address, apikey):
   payload = f"ip_address={ip_address}&apikey={apikey}"
   headers = {'Content-Type': 'application/x-www-form-urlencoded'}
   try:
-    response = requests.request("POST", url, data=payload, headers=headers, timeout=15)
+    response = requests.request("POST", url, data=payload, headers=headers)
 
     if response.status_code == 200:
       data = response.json()

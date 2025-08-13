@@ -1,0 +1,3231 @@
+[{
+  "name": "Battle of Gods",
+  "ninjas": [
+    "Baryon Naruto",
+    "Prime Ishiki"
+  ],
+  "attributes": {
+    "attack": 8,
+    "defense": 0,
+    "hp": 0,
+    "agility": 8
+  }
+},
+{
+  "name": "Then and Now",
+  "ninjas": [
+    "Himawari Uzumaki",
+    "Himawari Timeskip",
+    "Kawaki",
+    "Kawaki Karma",
+    "Boruto Karma",
+    "Boruto Timeskip"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 10,
+    "agility": 10
+  }
+},
+{
+  "name": "Kurama's",
+  "ninjas": [
+    "Minato Kyuubi Mode",
+    "Kushina Uzumaki",
+    "Naruto Kyuubi Mode",
+    "Himawari Timeskip"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 10,
+    "agility": 0
+  }
+},
+{
+  "name": "Antagonistic",
+  "ninjas": [
+    "Matsuri Shinju",
+    "Eida",
+    "Prime Kaguya"
+  ],
+  "attributes": {
+    "attack": 7,
+    "defense": 7,
+    "hp": 0,
+    "agility": 7
+  }
+},
+{
+  "name": "Old Man's Power",
+  "ninjas": [
+    "Mamushi Shinju",
+    "Prime Hagoromo",
+    "Onoki",
+    "Victor"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 10,
+    "hp": 10,
+    "agility": 0
+  }
+},
+{
+  "name": "Sasuke Ego",
+  "ninjas": [
+    "Sasuke Wanderer",
+    "Boruto Timeskip",
+    "Hidari Shinju"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 12,
+    "agility": 12
+  }
+},
+{
+  "name": "Proud Father 2",
+  "ninjas": [
+    "Sakumo Hatake",
+    "Kakashi Hokage"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 8,
+    "hp": 8,
+    "agility": 0
+  }
+},
+{
+  "name": "Happy Family",
+  "ninjas": [
+    "Minato Kyuubi Mode",
+    "Kushina Uzumaki",
+    "Naruto Kyuubi Mode",
+    "Himawari Timeskip"
+  ],
+  "attributes": {
+    "attack": 5,
+    "defense": 5,
+    "hp": 5,
+    "agility": 0
+  }
+},
+{
+  "name": "Rouge Ninja",
+  "ninjas": [
+    "Sasuke Wanderer",
+    "Boruto Timeskip"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 8,
+    "hp": 0,
+    "agility": 8
+  }
+},
+{
+  "name": "Kurama's",
+  "ninjas": [
+    "Minato Kyuubi Mode",
+    "Kushina Uzumaki",
+    "Naruto Kyuubi Mode",
+    "Himawari Timeskip"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 10,
+    "agility": 0
+  }
+},
+{
+  "name": "2 Teachers",
+  "ninjas": [
+    "Kashin Koji",
+    "Sasuke Wanderer",
+    "Boruto Timeskip"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 10,
+    "hp": 10,
+    "agility": 0
+  }
+},
+{
+  "name": "Support System",
+  "ninjas": [
+    "Naruto Kyuubi Mode",
+    "Shikamaru Hokage"
+  ],
+  "attributes": {
+    "attack": 6,
+    "defense": 6,
+    "hp": 0,
+    "agility": 6
+  }
+},
+{
+  "name": "Frenemies",
+  "ninjas": [
+    "Naruto Kyuubi Mode",
+    "Sasuke Wanderer",
+    "Ten Tails Obito",
+    "Kakashi Hokage"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 0,
+    "hp": 10,
+    "agility": 10
+  }
+},
+{
+  "name": "Kyuubi Jinchuriki",
+  "ninjas": [
+    "Minato Kyuubi Mode",
+    "Kushina Uzumaki",
+    "Himawari Timeskip"
+  ],
+  "attributes": {
+    "attack": 12,
+    "defense": 12,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Otsutsuki Vessel",
+  "ninjas": [
+    "Boruto Timeskip",
+    "Kawaki Karma"
+  ],
+  "attributes": {
+    "attack": 8,
+    "defense": 0,
+    "hp": 0,
+    "agility": 8
+  }
+},
+{
+  "name": "Hiraishin No Jutsu",
+  "ninjas": [
+    "Tobirama",
+    "Minato Kyuubi Mode",
+    "Boruto Timeskip"
+  ],
+  "attributes": {
+    "attack": 6,
+    "defense": 0,
+    "hp": 6,
+    "agility": 6
+  }
+},
+{
+  "name": "Infinite Tsukuyomi",
+  "ninjas": [
+    "Ten Tails Madara",
+    "Byakugan Kaguya"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 8,
+    "agility": 8
+  }
+},
+{
+  "name": "Team 7 Ultimate",
+  "ninjas": [
+    "Boruto Timeskip",
+    "Mangekyou Sarada",
+    "Kawaki Karma",
+    "Mitsuki"
+  ],
+  "attributes": {
+    "attack": 9,
+    "defense": 0,
+    "hp": 9,
+    "agility": 9
+  }
+},
+{
+  "name": "Konoha Beast Fam",
+  "ninjas": [
+    "Might Duy",
+    "Lee",
+    "Guy",
+    "Metal Lee"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 0,
+    "hp": 10,
+    "agility": 0
+  }
+},
+{
+  "name": "Proud Father",
+  "ninjas": [
+    "Might Duy",
+    "Guy 8th Gate"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Konoha Role Model",
+  "ninjas": [
+    "Might Duy",
+    "Sakumo Hatake"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 8,
+    "hp": 8,
+    "agility": 0
+  }
+},
+{
+  "name": "Reanimated Battle",
+  "ninjas": [
+    "Nagato Edo Tensei",
+    "Itachi Edo Tensei",
+    "Naruto Kyuubi Mode",
+    "Killer Bee"
+  ],
+  "attributes": {
+    "attack": 5,
+    "defense": 5,
+    "hp": 5,
+    "agility": 5
+  }
+},
+{
+  "name": "Final act of",
+  "ninjas": [
+    "Tobi",
+    "Six Paths Obito",
+    "White Mask Obito",
+    "Ten Tails Obito"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 0,
+    "hp": 10,
+    "agility": 0
+  }
+},
+{
+  "name": "3 Stages of Kaguya",
+  "ninjas": [
+    "Kaguya",
+    "Byakugan Kaguya",
+    "Prime Kaguya"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 10,
+    "hp": 10,
+    "agility": 0
+  }
+},
+{
+  "name": "The Prime",
+  "ninjas": [
+    "Prime Kaguya",
+    "Prime Hagoromo",
+    "Prime Ishiki"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 12,
+    "agility": 12
+  }
+},
+{
+  "name": "Ten Tails Jinchuriki",
+  "ninjas": [
+    "Prime Kaguya",
+    "Ten Tails Madara",
+    "Ten Tails Obito"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 0,
+    "agility": 10
+  }
+},
+{
+  "name": "Ultimate Battle",
+  "ninjas": [
+    "Prime Ishiki",
+    "Baryon Naruto",
+    "Sasuke Wanderer"
+  ],
+  "attributes": {
+    "attack": 7,
+    "defense": 0,
+    "hp": 7,
+    "agility": 7
+  }
+},
+{
+  "name": "Qualified Vessel",
+  "ninjas": [
+    "Prime Ishiki",
+    "Code No Limiter",
+    "Kawaki Karma"
+  ],
+  "attributes": {
+    "attack": 12,
+    "defense": 0,
+    "hp": 12,
+    "agility": 0
+  }
+},
+{
+  "name": "Final Evolution",
+  "ninjas": [
+    "Baryon Naruto",
+    "Code No Limiter",
+    "Ten Tails Madara",
+    "Toneri Tenseigan",
+    "Prime Ishiki",
+    "Ten Tails Obito"
+  ],
+  "attributes": {
+    "attack": 15,
+    "defense": 15,
+    "hp": 15,
+    "agility": 15
+  }
+},
+{
+  "name": "Ten Tails Power",
+  "ninjas": [
+    "Kaguya",
+    "Ten Tails Madara",
+    "Ten Tails Obito"
+  ],
+  "attributes": {
+    "attack": 7,
+    "defense": 7,
+    "hp": 7,
+    "agility": 0
+  }
+},
+{
+  "name": "Mizukage Lineage",
+  "ninjas": [
+    "2nd Mizukage",
+    "Three Tails Jinchuriki",
+    "Mei Terumi",
+    "Chojuro Mizukage"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Club Minato",
+  "ninjas": [
+    "Minato Kyuubi Mode",
+    "Kakashi Hokage",
+    "Ten Tails Obito"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 8,
+    "hp": 8,
+    "agility": 8
+  }
+},
+{
+  "name": "Five Kage's Era",
+  "ninjas": [
+    "Chojuro Mizukage",
+    "Kurotsuchi",
+    "Darui",
+    "Gaara War Captain"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 10,
+    "agility": 0
+  }
+},
+{
+  "name": "Reincarnation",
+  "ninjas": [
+    "Kawaki",
+    "Code No Limiter",
+    "Jigen Karma",
+    "Prime Ishiki"
+  ],
+  "attributes": {
+    "attack": 12,
+    "defense": 0,
+    "hp": 0,
+    "agility": 12
+  }
+},
+{
+  "name": "Jigen Evolution",
+  "ninjas": [
+    "Jigen",
+    "Jigen Karma",
+    "Isshiki",
+    "Prime Ishiki"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 8,
+    "hp": 8,
+    "agility": 0
+  }
+},
+{
+  "name": "Brother In Crime",
+  "ninjas": [
+    "Six Paths Madara",
+    "Ten Tails Madara",
+    "Six Paths Obito",
+    "Ten Tails Obito"
+  ],
+  "attributes": {
+    "attack": 12,
+    "defense": 0,
+    "hp": 12,
+    "agility": 0
+  }
+},
+{
+  "name": "Hokage's in War",
+  "ninjas": [
+    "Sage Hashirama",
+    "Tobirama",
+    "Hiruzen Sarutobi",
+    "Minato Kyuubi Mode"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 0,
+    "agility": 10
+  }
+},
+{
+  "name": "Incident of Uchiha",
+  "ninjas": [
+    "Hiruzen Sarutobi",
+    "Danzo",
+    "Shisui Uchiha",
+    "Itachi Edo Tensei"
+  ],
+  "attributes": {
+    "attack": 9,
+    "defense": 9,
+    "hp": 0,
+    "agility": 9
+  }
+},
+{
+  "name": "Uzumaki Clan",
+  "ninjas": [
+    "Kushina Uzumaki",
+    "Baryon Naruto",
+    "Boruto",
+    "Himawari Uzumaki",
+    "Karin"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Mokuton Jutsu",
+  "ninjas": [
+    "Ashura Otsutsuki",
+    "Hashirama",
+    "Yamato"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 5,
+    "hp": 5,
+    "agility": 5
+  }
+},
+{
+  "name": "Naruto The Last",
+  "ninjas": [
+    "Naruto Kyuubi Mode",
+    "Toneri Tenseigan",
+    "Sasuke Wanderer",
+    "Kakashi Hokage"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 0,
+    "hp": 10,
+    "agility": 10
+  }
+},
+{
+  "name": "Konoha Shadow's",
+  "ninjas": [
+    "Itachi Edo Tensei",
+    "Sasuke Wanderer"
+  ],
+  "attributes": {
+    "attack": 8,
+    "defense": 0,
+    "hp": 8,
+    "agility": 0
+  }
+},
+{
+  "name": "Strong Women",
+  "ninjas": [
+    "Kurotsuchi",
+    "Sage Tsunade",
+    "Kushina Uzumaki",
+    "Eida",
+    "Kaguya",
+    "Sage Sakura"
+  ],
+  "attributes": {
+    "attack": 11,
+    "defense": 11,
+    "hp": 11,
+    "agility": 11
+  }
+},
+{
+  "name": "Kyubi Incident",
+  "ninjas": [
+    "Kushina Uzumaki",
+    "Minato",
+    "Tobi",
+    "3rd Hokage"
+  ],
+  "attributes": {
+    "attack": 5,
+    "defense": 5,
+    "hp": 0,
+    "agility": 5
+  }
+},
+{
+  "name": "Moon Guardian",
+  "ninjas": [
+    "Hamura Otsutsuki",
+    "Toneri Tenseigan",
+    "Toneri"
+  ],
+  "attributes": {
+    "attack": 7,
+    "defense": 7,
+    "hp": 7,
+    "agility": 0
+  }
+},
+{
+  "name": "All time Rival",
+  "ninjas": [
+    "Indra Otsutsuki",
+    "Ashura Otsutsuki",
+    "Madara Susanoo",
+    "Sage Hashirama",
+    "Naruto Kyuubi Mode",
+    "Sasuke Wanderer"
+  ],
+  "attributes": {
+    "attack": 15,
+    "defense": 15,
+    "hp": 15,
+    "agility": 15
+  }
+},
+{
+  "name": "Revenge Battle",
+  "ninjas": [
+    "Shikamaru Hokage",
+    "Hidan Mode Jashin",
+    "Asuma"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 9,
+    "hp": 9,
+    "agility": 0
+  }
+},
+{
+  "name": "Old Rival",
+  "ninjas": [
+    "Gara Jinchuriki",
+    "Naruto Kyuubi Mode",
+    "Cursed Seal Sasuke"
+  ],
+  "attributes": {
+    "attack": 6,
+    "defense": 6,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Tsuchikage Lineage",
+  "ninjas": [
+    "Mu",
+    "Onoki",
+    "Kurotsuchi"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 0,
+    "hp": 0,
+    "agility": 10
+  }
+},
+{
+  "name": "Cursed Sound Four",
+  "ninjas": [
+    "Jirobo Cursed Mode",
+    "Sakon & Ukon Cursed",
+    "KidomaruC",
+    "TayuyaC"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 9,
+    "hp": 9,
+    "agility": 9
+  }
+},
+{
+  "name": "Happy Family",
+  "ninjas": [
+    "Minato Kyuubi Mode",
+    "Kushina Uzumaki",
+    "Baryon Naruto"
+  ],
+  "attributes": {
+    "attack": 13,
+    "defense": 0,
+    "hp": 0,
+    "agility": 13
+  }
+},
+{
+  "name": "My Family from The",
+  "ninjas": [
+    "Kaguya",
+    "Hagoromo",
+    "Hamura Otsutsuki",
+    "Indra Otsutsuki",
+    "Ashura Otsutsuki"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 10,
+    "agility": 10
+  }
+},
+{
+  "name": "Origin Of Senju",
+  "ninjas": [
+    "Ashura Otsutsuki",
+    "Hagoromo",
+    "Sage Hashirama",
+    "Sage Tsunade"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 0,
+    "hp": 10,
+    "agility": 10
+  }
+},
+{
+  "name": "Origin Of Uchiha",
+  "ninjas": [
+    "Indra Otsutsuki",
+    "Hagoromo",
+    "Madara Susanoo",
+    "Sasuke Wanderer"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 0,
+    "agility": 10
+  }
+},
+{
+  "name": "Half Kyuubi",
+  "ninjas": [
+    "Naruto Kyuubi Mode",
+    "Minato Kyuubi Mode",
+    "Madara Susanoo"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 8,
+    "hp": 0,
+    "agility": 8
+  }
+},
+{
+  "name": "Sibling's Clash",
+  "ninjas": [
+    "Indra Otsutsuki",
+    "Ashura Otsutsuki"
+  ],
+  "attributes": {
+    "attack": 8,
+    "defense": 0,
+    "hp": 8,
+    "agility": 0
+  }
+},
+{
+  "name": "The Strategic",
+  "ninjas": [
+    "Shikamaru Hokage",
+    "Amado"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 10,
+    "agility": 0
+  }
+},
+{
+  "name": "Monster Duel",
+  "ninjas": [
+    "Guy 8th Gate",
+    "Kisame Shark"
+  ],
+  "attributes": {
+    "attack": 8,
+    "defense": 0,
+    "hp": 8,
+    "agility": 0
+  }
+},
+{
+  "name": "Cyborg Family",
+  "ninjas": [
+    "Amado",
+    "Eida",
+    "Daemon"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 10,
+    "agility": 10
+  }
+},
+{
+  "name": "Byakugo Master",
+  "ninjas": [
+    "Sage Tsunade",
+    "Sage Sakura"
+  ],
+  "attributes": {
+    "attack": 9,
+    "defense": 0,
+    "hp": 9,
+    "agility": 0
+  }
+},
+{
+  "name": "Omnipotence Arc",
+  "ninjas": [
+    "Daemon",
+    "Code",
+    "Code No Limiter",
+    "Eida"
+  ],
+  "attributes": {
+    "attack": 13,
+    "defense": 13,
+    "hp": 0,
+    "agility": 13
+  }
+},
+{
+  "name": "Asuma's Death",
+  "ninjas": [
+    "Kakuzu",
+    "Hidan",
+    "Asuma",
+    "Shikamaru"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 6,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Madara Power Rank",
+  "ninjas": [
+    "Madara",
+    "Six Paths Madara",
+    "Madara Susanoo",
+    "Ten Tails Madara"
+  ],
+  "attributes": {
+    "attack": 12,
+    "defense": 12,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Simping For Love",
+  "ninjas": [
+    "Eida",
+    "Code No Limiter",
+    "Kawaki"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 8,
+    "hp": 8,
+    "agility": 8
+  }
+},
+{
+  "name": "Confidetial",
+  "ninjas": [
+    "Shikamaru Hokage",
+    "Ino",
+    "Boruto Karma"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 6,
+    "hp": 6,
+    "agility": 0
+  }
+},
+{
+  "name": "Return of the Legends",
+  "ninjas": [
+    "Ten Tails Madara",
+    "Madara Susanoo",
+    "Sage Hashirama"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 10,
+    "agility": 0
+  }
+},
+{
+  "name": "Hokage Edo Tensei",
+  "ninjas": [
+    "Sage Hashirama",
+    "Hiruzen Sarutobi",
+    "Tobirama",
+    "Minato"
+  ],
+  "attributes": {
+    "attack": 8,
+    "defense": 8,
+    "hp": 8,
+    "agility": 8
+  }
+},
+{
+  "name": "Hamura Descendants",
+  "ninjas": [
+    "Hamura Otsutsuki",
+    "Toneri",
+    "Toneri Tenseigan"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 0,
+    "agility": 10
+  }
+},
+{
+  "name": "Proud Master",
+  "ninjas": [
+    "Asuma",
+    "Shikamaru",
+    "Shikamaru Hokage"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 4,
+    "hp": 4,
+    "agility": 4
+  }
+},
+{
+  "name": "Akatsuki Partner",
+  "ninjas": [
+    "Kisame",
+    "Kisame Shark",
+    "Itachi",
+    "Itachi Edo Tensei"
+  ],
+  "attributes": {
+    "attack": 5,
+    "defense": 5,
+    "hp": 0,
+    "agility": 5
+  }
+},
+{
+  "name": "Lost the Village",
+  "ninjas": [
+    "Cursed Kimimaro",
+    "Itachi Edo Tensei",
+    "Six Paths Obito",
+    "Sasuke Wanderer"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 10,
+    "agility": 10
+  }
+},
+{
+  "name": "Monster Evolution",
+  "ninjas": [
+    "Kisame",
+    "Kisame Shark",
+    "Kabuto",
+    "Kabuto Yakushi"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 6,
+    "hp": 0,
+    "agility": 6
+  }
+},
+{
+  "name": "The Power Of SageMode",
+  "ninjas": [
+    "Sage Naruto",
+    "Sage Mitsuki",
+    "Sage Jiraiya",
+    "Sage Sakura",
+    "Sage Tsunade",
+    "Sage Hashirama"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 10,
+    "agility": 0
+  }
+},
+{
+  "name": "Byakugo Masters",
+  "ninjas": [
+    "Tsunade",
+    "Sage Tsunade",
+    "Sage Sakura"
+  ],
+  "attributes": {
+    "attack": 6,
+    "defense": 0,
+    "hp": 0,
+    "agility": 6
+  }
+},
+{
+  "name": "Senju Power",
+  "ninjas": [
+    "Tsunade",
+    "Sage Tsunade",
+    "Hashirama",
+    "Sage Hashirama"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Cursed Brother",
+  "ninjas": [
+    "Kimimaro",
+    "Cursed Kimimaro",
+    "Sasuke",
+    "Cursed Seal Sasuke"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 11,
+    "agility": 0
+  }
+},
+{
+  "name": "Substitute for Hokage 7",
+  "ninjas": [
+    "Konohamaru Sarutobi",
+    "Naruto Kyuubi Mode"
+  ],
+  "attributes": {
+    "attack": 6,
+    "defense": 6,
+    "hp": 6,
+    "agility": 6
+  }
+},
+{
+  "name": "Rival Brother",
+  "ninjas": [
+    "Konohamaru",
+    "Naruto",
+    "Konohamaru Sarutobi",
+    "Nine Tails Naruto"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Perfect Tenseigan",
+  "ninjas": [
+    "Hanabi Hyuga",
+    "Toneri Tenseigan",
+    "Hinata Uzumaki"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "No Way Home",
+  "ninjas": [
+    "Sasuke Wanderer",
+    "Itachi Edo Tensei",
+    "Boruto Karma"
+  ],
+  "attributes": {
+    "attack": 9,
+    "defense": 0,
+    "hp": 9,
+    "agility": 9
+  }
+},
+{
+  "name": "The Power of Toneri",
+  "ninjas": [
+    "Toneri",
+    "Toneri Tenseigan"
+  ],
+  "attributes": {
+    "attack": 8,
+    "defense": 0,
+    "hp": 8,
+    "agility": 0
+  }
+},
+{
+  "name": "Sarutobi Clan",
+  "ninjas": [
+    "3rd Hokage",
+    "Hiruzen Sarutobi",
+    "Konohamaru Sarutobi",
+    "Asuma"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 12,
+    "agility": 12
+  }
+},
+{
+  "name": "Love Triangle",
+  "ninjas": [
+    "Toneri Tenseigan",
+    "Hinata Uzumaki",
+    "Naruto Kyuubi Mode"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 0,
+    "hp": 0,
+    "agility": 10
+  }
+},
+{
+  "name": "Team 7 Reborn",
+  "ninjas": [
+    "Konohamaru Sarutobi",
+    "Boruto",
+    "Uchiha Sarada",
+    "Sage Mitsuki"
+  ],
+  "attributes": {
+    "attack": 8,
+    "defense": 8,
+    "hp": 0,
+    "agility": 8
+  }
+},
+{
+  "name": "Mother and Son 2",
+  "ninjas": [
+    "Kaguya",
+    "Hagoromo",
+    "Hamura Otsutsuki"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 8,
+    "hp": 8,
+    "agility": 8
+  }
+},
+{
+  "name": "Tempestuous God",
+  "ninjas": [
+    "Itachi Edo Tensei",
+    "Rinegan Sasuke",
+    "Shisui Uchiha"
+  ],
+  "attributes": {
+    "attack": 11,
+    "defense": 0,
+    "hp": 0,
+    "agility": 11
+  }
+},
+{
+  "name": "Rasengan Masters",
+  "ninjas": [
+    "Minato",
+    "Sage Jiraiya",
+    "Nine Tails Naruto",
+    "Boruto Karma"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 8,
+    "hp": 0,
+    "agility": 8
+  }
+},
+{
+  "name": "Eight Hokages",
+  "ninjas": [
+    "Hashirama",
+    "Tobirama",
+    "Hiruzen Sarutobi",
+    "Minato",
+    "Tsunade",
+    "Kakashi DS",
+    "Byron Naruto",
+    "Shikamaru Hokage"
+  ],
+  "attributes": {
+    "attack": 18,
+    "defense": 18,
+    "hp": 18,
+    "agility": 18
+  }
+},
+{
+  "name": "Uchiha Legacy",
+  "ninjas": [
+    "Madara",
+    "Shisui Uchiha",
+    "Itachi Edo Tensei",
+    "Mangekyo Sasuke"
+  ],
+  "attributes": {
+    "attack": 12,
+    "defense": 0,
+    "hp": 0,
+    "agility": 12
+  }
+},
+{
+  "name": "Now and Then",
+  "ninjas": [
+    "Sasuke",
+    "Naruto",
+    "Naruto Kyuubi Mode",
+    "Sasuke Wanderer"
+  ],
+  "attributes": {
+    "attack": 11,
+    "defense": 11,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Cyborg Siblings",
+  "ninjas": [
+    "Daemon",
+    "Eida"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 9,
+    "hp": 9,
+    "agility": 0
+  }
+},
+{
+  "name": "Mistery Man",
+  "ninjas": [
+    "Tobi",
+    "Obito",
+    "Six Paths Obito"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 15,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Nemesis",
+  "ninjas": [
+    "Itachi",
+    "Orochimaru"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 8
+  }
+},
+{
+  "name": "The Rinnegan",
+  "ninjas": [
+    "Pain",
+    "Six Paths Obito",
+    "Six Paths Madara"
+  ],
+  "attributes": {
+    "attack": 8,
+    "defense": 8,
+    "hp": 8,
+    "agility": 8
+  }
+},
+{
+  "name": "Thunder Kingdom",
+  "ninjas": [
+    "A",
+    "Killer Bee",
+    "3rd Raikage",
+    "Darui"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 13
+  }
+},
+{
+  "name": "Boruto Team 7",
+  "ninjas": [
+    "Uchiha Sarada",
+    "Sage Mitsuki",
+    "Boruto Karma"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 15,
+    "agility": 15
+  }
+},
+{
+  "name": "Sasuke Family",
+  "ninjas": [
+    "Uchiha Sarada",
+    "Rinegan Sasuke",
+    "Sakura"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 14
+  }
+},
+{
+  "name": "Ootsuki Clan",
+  "ninjas": [
+    "Momoshiki",
+    "Kaguya",
+    "Isshiki"
+  ],
+  "attributes": {
+    "attack": 11,
+    "defense": 11,
+    "hp": 11,
+    "agility": 11
+  }
+},
+{
+  "name": "Naruto Family",
+  "ninjas": [
+    "Hinata",
+    "Byron Naruto",
+    "Boruto"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 16,
+    "agility": 6
+  }
+},
+{
+  "name": "Kara Member",
+  "ninjas": [
+    "Kashin Koji",
+    "Kawaki",
+    "Deruta",
+    "Boro",
+    "Garo",
+    "Jigen",
+    "Jigen Karma",
+    "Amado"
+  ],
+  "attributes": {
+    "attack": 17,
+    "defense": 17,
+    "hp": 17,
+    "agility": 17
+  }
+},
+{
+  "name": "Step Brother",
+  "ninjas": [
+    "Boruto",
+    "Kawaki"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 15,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Karma Brother",
+  "ninjas": [
+    "Kawaki",
+    "Boruto Karma"
+  ],
+  "attributes": {
+    "attack": 18,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "New Father and Son",
+  "ninjas": [
+    "Byron Naruto",
+    "Kawaki",
+    "Boruto Karma"
+  ],
+  "attributes": {
+    "attack": 16,
+    "defense": 0,
+    "hp": 0,
+    "agility": 16
+  }
+},
+{
+  "name": "Uchiha Revenger",
+  "ninjas": [
+    "Sasuke",
+    "Cursed Seal Sasuke",
+    "Mangekyo Sasuke",
+    "Rinegan Sasuke"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 9
+  }
+},
+{
+  "name": "More than Blood",
+  "ninjas": [
+    "Orochimaru",
+    "Kabuto Yakushi",
+    "Sage Mitsuki"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 8,
+    "agility": 0
+  }
+},
+{
+  "name": "Nanadaime Path",
+  "ninjas": [
+    "Naruto",
+    "Sage Naruto",
+    "Nine Tails Naruto",
+    "Byron Naruto"
+  ],
+  "attributes": {
+    "attack": 11,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Kurama Sacrifice",
+  "ninjas": [
+    "Byron Naruto",
+    "Isshiki"
+  ],
+  "attributes": {
+    "attack": 16,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Moon Eye Plan",
+  "ninjas": [
+    "Six Paths Madara",
+    "Kaguya",
+    "Six Paths Obito"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 15,
+    "hp": 15,
+    "agility": 0
+  }
+},
+{
+  "name": "Hokage and Shadow",
+  "ninjas": [
+    "Rinegan Sasuke",
+    "Byron Naruto"
+  ],
+  "attributes": {
+    "attack": 13,
+    "defense": 0,
+    "hp": 13,
+    "agility": 0
+  }
+},
+{
+  "name": "Time Travel",
+  "ninjas": [
+    "Rinegan Sasuke",
+    "Jiraiya",
+    "Boruto",
+    "Naruto"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 9,
+    "agility": 9
+  }
+},
+{
+  "name": "Rokudaime Path",
+  "ninjas": [
+    "Kakashi",
+    "Kakashi DS"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 0,
+    "hp": 10,
+    "agility": 0
+  }
+},
+{
+  "name": "Senju Clan",
+  "ninjas": [
+    "Hashirama",
+    "Tobirama",
+    "Tsunade"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 20,
+    "agility": 0
+  }
+},
+{
+  "name": "Perfect Clone",
+  "ninjas": [
+    "Jiraiya",
+    "Kashin Koji"
+  ],
+  "attributes": {
+    "attack": 7,
+    "defense": 0,
+    "hp": 7,
+    "agility": 7
+  }
+},
+{
+  "name": "Searching My Real",
+  "ninjas": [
+    "Uchiha Sarada",
+    "Sakura",
+    "Karin"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 10,
+    "agility": 0
+  }
+},
+{
+  "name": "Creator Human",
+  "ninjas": [
+    "Amado",
+    "Deruta",
+    "Kashin Koji"
+  ],
+  "attributes": {
+    "attack": 12,
+    "defense": 12,
+    "hp": 12,
+    "agility": 0
+  }
+},
+{
+  "name": "Allied Shinobi",
+  "ninjas": [
+    "Gaara War Captain",
+    "Tsunade",
+    "Mei Terumi",
+    "A",
+    "Onoki"
+  ],
+  "attributes": {
+    "attack": 8,
+    "defense": 8,
+    "hp": 8,
+    "agility": 8
+  }
+},
+{
+  "name": "Scientific Ninja",
+  "ninjas": [
+    "Ao",
+    "Ao Cyborg Mode"
+  ],
+  "attributes": {
+    "attack": 6,
+    "defense": 0,
+    "hp": 0,
+    "agility": 6
+  }
+},
+{
+  "name": "Sabotage Jigen",
+  "ninjas": [
+    "Victor",
+    "Jigen",
+    "Jigen Karma"
+  ],
+  "attributes": {
+    "attack": 15,
+    "defense": 15,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Cultivate a God",
+  "ninjas": [
+    "Victor",
+    "Kaguya",
+    "Urashiki"
+  ],
+  "attributes": {
+    "attack": 12,
+    "defense": 0,
+    "hp": 12,
+    "agility": 12
+  }
+},
+{
+  "name": "Uncle and nephew",
+  "ninjas": [
+    "Gaara War Captain",
+    "Kankuro",
+    "Shikadai Nara"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 11,
+    "hp": 0,
+    "agility": 11
+  }
+},
+{
+  "name": "Konoha Madic Ninja",
+  "ninjas": [
+    "Sage Sakura",
+    "Tsunade",
+    "Shizune"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 10,
+    "hp": 10,
+    "agility": 0
+  }
+},
+{
+  "name": "Kama Vessel",
+  "ninjas": [
+    "Isshiki",
+    "Kawaki",
+    "Code"
+  ],
+  "attributes": {
+    "attack": 15,
+    "defense": 15,
+    "hp": 15,
+    "agility": 15
+  }
+},
+{
+  "name": "Nature Chakra",
+  "ninjas": [
+    "Sage Jiraiya",
+    "Sage Naruto",
+    "Sage Sakura"
+  ],
+  "attributes": {
+    "attack": 11,
+    "defense": 11,
+    "hp": 11,
+    "agility": 0
+  }
+},
+{
+  "name": "Byakugan Legacy",
+  "ninjas": [
+    "Hinata Uzumaki",
+    "Hanabi Hyuga",
+    "Himawari Uzumaki"
+  ],
+  "attributes": {
+    "attack": 11,
+    "defense": 0,
+    "hp": 11,
+    "agility": 0
+  }
+},
+{
+  "name": "Mother and Son",
+  "ninjas": [
+    "Kaguya",
+    "Hagoromo"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 13,
+    "agility": 13
+  }
+},
+{
+  "name": "Forbiden Act",
+  "ninjas": [
+    "A",
+    "Hinata Uzumaki"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 6,
+    "hp": 0,
+    "agility": 6
+  }
+},
+{
+  "name": "Granddaughter",
+  "ninjas": [
+    "Himawari Uzumaki",
+    "Minato"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 8,
+    "agility": 8
+  }
+},
+{
+  "name": "Best Aunt",
+  "ninjas": [
+    "Hanabi Hyuga",
+    "Himawari Uzumaki",
+    "Boruto Karma"
+  ],
+  "attributes": {
+    "attack": 12,
+    "defense": 12,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Deadly Battle",
+  "ninjas": [
+    "Guy 8th Gate",
+    "Six Paths Madara"
+  ],
+  "attributes": {
+    "attack": 9,
+    "defense": 0,
+    "hp": 0,
+    "agility": 9
+  }
+},
+{
+  "name": "8th Gate Legacy",
+  "ninjas": [
+    "Metal Lee",
+    "Lee",
+    "Guy 8th Gate"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 0,
+    "hp": 0,
+    "agility": 10
+  }
+},
+{
+  "name": "Sixpath Way",
+  "ninjas": [
+    "Hagoromo",
+    "Nine Tails Naruto",
+    "Rinegan Sasuke"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 10,
+    "agility": 0
+  }
+},
+{
+  "name": "Brother and Sister",
+  "ninjas": [
+    "Boruto",
+    "Himawari Uzumaki"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 12,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Cross Path",
+  "ninjas": [
+    "Boruto Karma",
+    "Kawaki"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 12,
+    "hp": 12,
+    "agility": 0
+  }
+},
+{
+  "name": "Best Rival",
+  "ninjas": [
+    "Guy 8th Gate",
+    "Kakashi DS"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 13,
+    "agility": 13
+  }
+},
+{
+  "name": "Momoshiki Servant",
+  "ninjas": [
+    "Momoshiki Karma",
+    "Kinshiki"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 12,
+    "hp": 0,
+    "agility": 12
+  }
+},
+{
+  "name": "Impales",
+  "ninjas": [
+    "Urashiki",
+    "Jiraiya"
+  ],
+  "attributes": {
+    "attack": 12,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Two Souls",
+  "ninjas": [
+    "Momoshiki Karma",
+    "Boruto Karma"
+  ],
+  "attributes": {
+    "attack": 13,
+    "defense": 0,
+    "hp": 13,
+    "agility": 0
+  }
+},
+{
+  "name": "Chakra Pills",
+  "ninjas": [
+    "Urashiki",
+    "Kinshiki",
+    "Momoshiki Karma"
+  ],
+  "attributes": {
+    "attack": 13,
+    "defense": 13,
+    "hp": 13,
+    "agility": 13
+  }
+},
+{
+  "name": "Different Destiny",
+  "ninjas": [
+    "Menma Uzumaki",
+    "Naruto Kyuubi Mode"
+  ],
+  "attributes": {
+    "attack": 14,
+    "defense": 0,
+    "hp": 0,
+    "agility": 14
+  }
+},
+{
+  "name": "Menma Wrold",
+  "ninjas": [
+    "Menma Uzumaki",
+    "Tobi",
+    "Sakura"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 13,
+    "agility": 0
+  }
+},
+{
+  "name": "Byakugo",
+  "ninjas": [
+    "Tsunade",
+    "Sage Sakura"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 11
+  }
+},
+{
+  "name": "Shinobi No Kami",
+  "ninjas": [
+    "Hashirama",
+    "Hiruzen Sarutobi",
+    "3rd Hokage",
+    "Sage Hashirama"
+  ],
+  "attributes": {
+    "attack": 12,
+    "defense": 12,
+    "hp": 12,
+    "agility": 0
+  }
+},
+{
+  "name": "Iron Sand",
+  "ninjas": [
+    "Sasori",
+    "Shinki"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 12,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Step Sister",
+  "ninjas": [
+    "Kawaki",
+    "Himawari Uzumaki"
+  ],
+  "attributes": {
+    "attack": 9,
+    "defense": 0,
+    "hp": 0,
+    "agility": 9
+  }
+},
+{
+  "name": "Moon Eye Arc",
+  "ninjas": [
+    "Six Paths Obito",
+    "Six Paths Madara",
+    "Ten Tails Madara",
+    "Kaguya"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 0,
+    "agility": 10
+  }
+},
+{
+  "name": "Origins of the",
+  "ninjas": [
+    "Kaguya",
+    "Hagoromo",
+    "Hamura Otsutsuki"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 0,
+    "hp": 10,
+    "agility": 10
+  }
+},
+{
+  "name": "Kyuubi Power",
+  "ninjas": [
+    "Menma Uzumaki",
+    "Naruto Kyuubi Mode",
+    "Minato"
+  ],
+  "attributes": {
+    "attack": 9,
+    "defense": 9,
+    "hp": 9,
+    "agility": 9
+  }
+},
+{
+  "name": "God Shinobi Rivals",
+  "ninjas": [
+    "Madara Susanoo",
+    "Sage Hashirama"
+  ],
+  "attributes": {
+    "attack": 7,
+    "defense": 7,
+    "hp": 7,
+    "agility": 7
+  }
+},
+{
+  "name": "Sharingan",
+  "ninjas": [
+    "Uchiha Shin",
+    "Orochimaru",
+    "Danzo"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 11,
+    "agility": 0
+  }
+},
+{
+  "name": "Foster Child",
+  "ninjas": [
+    "Kabuto Yakushi",
+    "Uchiha Shin",
+    "Human Cloning"
+  ],
+  "attributes": {
+    "attack": 9,
+    "defense": 9,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Wood Jutsu",
+  "ninjas": [
+    "Sage Hashirama",
+    "Hashirama",
+    "Yamato"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 13,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Indra & Ashura",
+  "ninjas": [
+    "Sage Hashirama",
+    "Madara Susanoo",
+    "Naruto Kyuubi Mode",
+    "Sasuke Wanderer"
+  ],
+  "attributes": {
+    "attack": 13,
+    "defense": 13,
+    "hp": 13,
+    "agility": 13
+  }
+},
+{
+  "name": "Naruto Final",
+  "ninjas": [
+    "Ten Tails Madara",
+    "Kaguya",
+    "Zetsu",
+    "Six Paths Obito"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 12,
+    "hp": 12,
+    "agility": 0
+  }
+},
+{
+  "name": "Izanami",
+  "ninjas": [
+    "Itachi Edo Tensei",
+    "Mangekyo Sasuke",
+    "Kabuto Yakushi"
+  ],
+  "attributes": {
+    "attack": 12,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Seven Hokage",
+  "ninjas": [
+    "Hashirama",
+    "Tobirama",
+    "3rd Hokage",
+    "Minato",
+    "Tsunade",
+    "Kakashi DS",
+    "Byron Naruto"
+  ],
+  "attributes": {
+    "attack": 9,
+    "defense": 0,
+    "hp": 9,
+    "agility": 9
+  }
+},
+{
+  "name": "Final Battle",
+  "ninjas": [
+    "Kakashi DS",
+    "Nine Tails Naruto",
+    "Mangekyo Sasuke",
+    "Sage Sakura",
+    "Kaguya"
+  ],
+  "attributes": {
+    "attack": 9,
+    "defense": 9,
+    "hp": 9,
+    "agility": 9
+  }
+},
+{
+  "name": "Team 7",
+  "ninjas": [
+    "Naruto",
+    "Sakura",
+    "Sasuke"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Princess Kidnapper",
+  "ninjas": [
+    "Toneri",
+    "Nine Tails Naruto",
+    "Hinata Uzumaki"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Uchiha Clan",
+  "ninjas": [
+    "Sasuke",
+    "Itachi",
+    "Obito",
+    "Madara"
+  ],
+  "attributes": {
+    "attack": 8,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Team 3",
+  "ninjas": [
+    "Tenten",
+    "Lee",
+    "Nenji"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Team 10",
+  "ninjas": [
+    "Ino",
+    "Shikamaru",
+    "Choji"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Team 8",
+  "ninjas": [
+    "Hinata",
+    "Kiba Inuzuka",
+    "Shino"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Ramen Mentor and Apprentice",
+  "ninjas": [
+    "Naruto",
+    "Iruka"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 5,
+    "agility": 0
+  }
+},
+{
+  "name": "Sarutobi Clan",
+  "ninjas": [
+    "3rd Hokage",
+    "Asuma",
+    "Konohamaru"
+  ],
+  "attributes": {
+    "attack": 4,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Teacher Comes",
+  "ninjas": [
+    "Kakashi",
+    "Guy",
+    "Asuma",
+    "Yuuhi Kurenai"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Hidden Sand Squad",
+  "ninjas": [
+    "Gaara",
+    "Temari",
+    "Kankuro"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "I am a Girl",
+  "ninjas": [
+    "Sakura",
+    "Ino",
+    "Tenten",
+    "Hinata",
+    "Temari",
+    "Shizune",
+    "Anko Mitarashi",
+    "Yuuhi Kurenai"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 8
+  }
+},
+{
+  "name": "Konoha 12 Ninjas",
+  "ninjas": [
+    "Naruto",
+    "Sakura",
+    "Sasuke",
+    "Tenten",
+    "Lee",
+    "Nenji",
+    "Ino",
+    "Choji",
+    "Shikamaru",
+    "Hinata",
+    "Kiba Inuzuka",
+    "Shino"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 10,
+    "agility": 10
+  }
+},
+{
+  "name": "Worthy Opponent",
+  "ninjas": [
+    "Naruto",
+    "Sasuke",
+    "Lee",
+    "Hinata",
+    "Gaara"
+  ],
+  "attributes": {
+    "attack": 3,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Hyuga Clan",
+  "ninjas": [
+    "Hinata",
+    "Nenji"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 4,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Hokage Anbu",
+  "ninjas": [
+    "Danzo",
+    "Sai",
+    "Anbu Guard",
+    "Anbu Sentry"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Passerby",
+  "ninjas": [
+    "Mizuki",
+    "Flameplate Brigand",
+    "Yoroi",
+    "Tsurugi Misumi",
+    "Kimada"
+  ],
+  "attributes": {
+    "attack": 4,
+    "defense": 4,
+    "hp": 4,
+    "agility": 4
+  }
+},
+{
+  "name": "Team Hawk",
+  "ninjas": [
+    "Sasuke",
+    "Suigetsu",
+    "Karin",
+    "Jugo"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 5,
+    "agility": 0
+  }
+},
+{
+  "name": "Power of the",
+  "ninjas": [
+    "Cursed Seal Sasuke",
+    "Jugo"
+  ],
+  "attributes": {
+    "attack": 3,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Almost Lover",
+  "ninjas": [
+    "Yuuhi Kurenai",
+    "Asuma"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 5,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Naruto's Mentor",
+  "ninjas": [
+    "Iruka",
+    "Kakashi",
+    "Yamato"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 10
+  }
+},
+{
+  "name": "Wind Kingdom",
+  "ninjas": [
+    "Gaara",
+    "Temari",
+    "Kankuro",
+    "Sasori",
+    "Baki",
+    "Granny Chiyo",
+    "4th Kazekage"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 10,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Puppeteer",
+  "ninjas": [
+    "Granny Chiyo",
+    "Sasori",
+    "Kankuro"
+  ],
+  "attributes": {
+    "attack": 4,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Tailed Beast",
+  "ninjas": [
+    "Gaara",
+    "Two Tails Jinchuriki",
+    "Three Tails Jinchuriki",
+    "Four Tails Jinchuriki",
+    "Five Tails Jinchuriki",
+    "Six Tails Jinchuriki",
+    "Seven Tails Jinchuriki",
+    "Four Tails Jinchuriki",
+    "Killer Bee",
+    "Naruto"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 10,
+    "agility": 10
+  }
+},
+{
+  "name": "Akatsuki",
+  "ninjas": [
+    "Tobi",
+    "Zetsu",
+    "Pain",
+    "Konan",
+    "Itachi",
+    "Kisame",
+    "Orochimaru",
+    "Deidara",
+    "Sasori",
+    "Hidan",
+    "Kakuzu"
+  ],
+  "attributes": {
+    "attack": 12,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Power of the Nine",
+  "ninjas": [
+    "Naruto",
+    "Sage Naruto",
+    "Nine Tails Naruto"
+  ],
+  "attributes": {
+    "attack": 8,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Group of Zombies",
+  "ninjas": [
+    "Mu",
+    "Hanzo",
+    "2nd Mizukage",
+    "3rd Raikage",
+    "4th Kazekage",
+    "3rd Hokage"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Fire's Will",
+  "ninjas": [
+    "Hashirama",
+    "Tobirama",
+    "3rd Hokage",
+    "Minato",
+    "Tsunade"
+  ],
+  "attributes": {
+    "attack": 12,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Seven Swordsmen",
+  "ninjas": [
+    "Zabuza",
+    "Suigetsu",
+    "Kisame"
+  ],
+  "attributes": {
+    "attack": 4,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Orochi",
+  "ninjas": [
+    "Orochimaru",
+    "Kabuto",
+    "Kabuto Yakushi"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 5,
+    "agility": 0
+  }
+},
+{
+  "name": "Mizukage Team",
+  "ninjas": [
+    "Mei Terumi",
+    "Ao",
+    "Chojuro"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Five Kages",
+  "ninjas": [
+    "Tsunade",
+    "A",
+    "Mei Terumi",
+    "Onoki",
+    "Kazekage Gaara"
+  ],
+  "attributes": {
+    "attack": 9,
+    "defense": 9,
+    "hp": 9,
+    "agility": 9
+  }
+},
+{
+  "name": "Three Ninjas",
+  "ninjas": [
+    "Jiraiya",
+    "Tsunade",
+    "Orochimaru"
+  ],
+  "attributes": {
+    "attack": 6,
+    "defense": 6,
+    "hp": 6,
+    "agility": 6
+  }
+},
+{
+  "name": "Bloodboil Youth",
+  "ninjas": [
+    "Lee",
+    "Guy"
+  ],
+  "attributes": {
+    "attack": 4,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Love Paradise",
+  "ninjas": [
+    "Jiraiya",
+    "Kakashi"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 7,
+    "agility": 0
+  }
+},
+{
+  "name": "The Same Eyes",
+  "ninjas": [
+    "Kakashi",
+    "Obito"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 7
+  }
+},
+{
+  "name": "Child of Destiny",
+  "ninjas": [
+    "Pain",
+    "Sage Naruto"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 7,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Past Team",
+  "ninjas": [
+    "Minato",
+    "Kakashi",
+    "Obito"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 10,
+    "agility": 0
+  }
+},
+{
+  "name": "The First",
+  "ninjas": [
+    "Hashirama",
+    "Madara"
+  ],
+  "attributes": {
+    "attack": 5,
+    "defense": 5,
+    "hp": 5,
+    "agility": 5
+  }
+},
+{
+  "name": "Female Go-getter",
+  "ninjas": [
+    "Yuuhi Kurenai",
+    "Mei Terumi",
+    "Tsunade"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Secret Love",
+  "ninjas": [
+    "Hinata",
+    "Karin"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 4,
+    "agility": 0
+  }
+},
+{
+  "name": "Get Bento",
+  "ninjas": [
+    "Zabuza",
+    "Kimimaro",
+    "Itachi",
+    "Asuma",
+    "Pain"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 10,
+    "agility": 0
+  }
+},
+{
+  "name": "Hokage Candidate",
+  "ninjas": [
+    "Danzo",
+    "Kakashi",
+    "Sage Naruto"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 9,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Raikage Team",
+  "ninjas": [
+    "A",
+    "Killer Bee",
+    "Darui"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Body Guard",
+  "ninjas": [
+    "Darui",
+    "Ao",
+    "Chojuro",
+    "Temari",
+    "Kankuro"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "10 Years of Naruto",
+  "ninjas": [
+    "Naruto",
+    "Sasuke",
+    "Sage Naruto",
+    "Cursed Seal Sasuke",
+    "Nine Tails Naruto",
+    "Mangekyo Sasuke"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 10,
+    "agility": 10
+  }
+},
+{
+  "name": "Golden Bachelor",
+  "ninjas": [
+    "Kazekage Gaara",
+    "Kakashi",
+    "Killer Bee"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Planet of the Apes",
+  "ninjas": [
+    "3rd Hokage",
+    "Four Tails Jinchuriki"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 6,
+    "agility": 0
+  }
+},
+{
+  "name": "I have a mount",
+  "ninjas": [
+    "Deidara",
+    "Sai",
+    "Kiba Inuzuka"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 5
+  }
+},
+{
+  "name": "Sage status",
+  "ninjas": [
+    "Sage Naruto",
+    "Kabuto Yakushi"
+  ],
+  "attributes": {
+    "attack": 5,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Old Man",
+  "ninjas": [
+    "3rd Hokage",
+    "Onoki",
+    "Danzo",
+    "Granny Chiyo"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Undying Shell",
+  "ninjas": [
+    "Sasori",
+    "Kakuzu",
+    "Pain"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 6,
+    "agility": 0
+  }
+},
+{
+  "name": "Medic Ninja",
+  "ninjas": [
+    "Sakura",
+    "Shizune",
+    "Tsunade",
+    "Kabuto",
+    "Granny Chiyo",
+    "Karin"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 8,
+    "agility": 0
+  }
+},
+{
+  "name": "Gold and Silver",
+  "ninjas": [
+    "Kinkaku",
+    "Ginkaku"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 7,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "A pot of balls",
+  "ninjas": [
+    "Konohamaru",
+    "Shikamaru",
+    "Kidomaru",
+    "Orochimaru"
+  ],
+  "attributes": {
+    "attack": 5,
+    "defense": 5,
+    "hp": 5,
+    "agility": 5
+  }
+},
+{
+  "name": "Hokage Traitor",
+  "ninjas": [
+    "Orochimaru",
+    "Kabuto",
+    "Cursed Seal Sasuke",
+    "Itachi",
+    "Mizuki"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Instant kill",
+  "ninjas": [
+    "Baki",
+    "Gekkou Hayate"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 4
+  }
+},
+{
+  "name": "Death Debt",
+  "ninjas": [
+    "Pain",
+    "Konan",
+    "Hanzo"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 8,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Cell of The First",
+  "ninjas": [
+    "Hashirama",
+    "Six Paths Madara",
+    "Orochimaru",
+    "Kabuto"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 14,
+    "agility": 0
+  }
+},
+{
+  "name": "Traceless",
+  "ninjas": [
+    "Zetsu",
+    "Tobi",
+    "Minato"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 10
+  }
+},
+{
+  "name": "Full Brother",
+  "ninjas": [
+    "Sasuke",
+    "Itachi",
+    "A",
+    "Killer Bee"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Kazekage Team",
+  "ninjas": [
+    "Kazekage Gaara",
+    "Temari",
+    "Kankuro"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Die Together",
+  "ninjas": [
+    "Mu",
+    "2nd Mizukage"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Apprenticeship",
+  "ninjas": [
+    "Jiraiya",
+    "Pain",
+    "Konan"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Mangekyo",
+  "ninjas": [
+    "Mangekyo Sasuke",
+    "Kabuto",
+    "Obito",
+    "Kakashi",
+    "Itachi"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "agility": 0
+  }
+},
+{
+  "name": "Karma Heritage",
+  "ninjas": [
+    "Code",
+    "Isshiki",
+    "Kawaki",
+    "Boruto Karma"
+  ],
+  "attributes": {
+    "attack": 0,
+    "defense": 12,
+    "hp": 12,
+    "agility": 0
+  }
+},
+{
+  "name": "Role Model",
+  "ninjas": [
+    "Rinegan Sasuke",
+    "Byron Naruto",
+    "Mangekyou Sarada",
+    "Boruto Timeskip"
+  ],
+  "attributes": {
+    "attack": 9,
+    "defense": 9,
+    "hp": 9,
+    "agility": 9
+  }
+},
+{
+  "name": "Ancestrall battle 1",
+  "ninjas": [
+    "Byakugan Kaguya",
+    "Prime Hagoromo",
+    "Hamura Otsutsuki"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 10,
+    "agility": 0
+  }
+},
+{
+  "name": "Ancestrall battle 2",
+  "ninjas": [
+    "Prime Kaguya",
+    "Prime Hagoromo",
+    "Hamura Otsutsuki"
+  ],
+  "attributes": {
+    "attack": 10,
+    "defense": 10,
+    "hp": 0,
+    "agility": 10
+  }
+}]
